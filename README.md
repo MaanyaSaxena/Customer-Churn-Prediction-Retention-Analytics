@@ -8,7 +8,7 @@ Ranks subscribers by churn risk using historical KKBox subscription data, tests 
 
 A subscription business can only contact a limited number of customers. Which customers are about to stop renewing, which observed behaviours go with churn, and who is worth contacting first under explicit cost and value assumptions?
 
-## 2. Findings in plain language
+## 2. Findings 
 
 - **Churn is concentrated.** The at-risk pool is 12.3% of customers but holds 80.9% of the remaining churners; 38.8% of the pool churns.
 - **Auto-renewal is the clearest segment signal.** 57.8% of low-auto-renew customers churn, against 26.2% of high-auto-renew customers (medium effect, Cramér's V = 0.31).
