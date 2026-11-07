@@ -1,0 +1,10 @@
+# Never commit raw data, databases or customer-level files
+data/
+*.duckdb
+*.7z
+*.zip
+.kaggle/
+# Unreviewed exports (copy only approved aggregate CSVs to dashboard_exports_public/)
+dashboard_exports/
+.ipynb_checkpoints/
+__pycache__/
